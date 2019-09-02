@@ -7,7 +7,7 @@ Setja skal upp tvær síður, aðgengilegar af internetinu.
 * Önnur síða (t.d. `about.html`) þar sem fram kemur nafn, netfang og mynd ásamt tengli yfir á forsíðu
   - Mynd skal geymd í möppu sem heitir `img/`
 
-Síður skal nota `utf-8` stafasett.
+Síðan skal nota `utf-8` stafasett.
 
 Setja skal síður upp á heimasvæði RHÍ, (http://rhi.hi.is/node/155) undir möppu `.public_html/vefforritun/verkefni1` svo verkefnið verði aðgengilegt á `https://notendur.hi.is/<notendanafn>/vefforritun/verkefni1` þar sem `<notendnafn>` er notendanafnið þitt (t.d. `avg4`).
 
