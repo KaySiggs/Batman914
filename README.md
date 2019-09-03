@@ -22,7 +22,7 @@ Verkefni sett fyrir Fimmtudaginn 29. ágúst 2019.
 
 ## Skil
 
-Skila skal undir „Verkefni og hlutaprófa“ á Uglu í seinasta lagi fyrir lok dags föstudaginn 6. september 2018.
+Skila skal undir „Verkefni og hlutaprófa“ á Uglu í seinasta lagi fyrir lok dags föstudaginn 6. september 2019.
 
 Skilaboð skulu innihalda slóð á verkefni ásamt zip skjali með lausn.
 
